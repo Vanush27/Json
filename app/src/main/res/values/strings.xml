@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="time">Time-</string>
+    <string name="article">Read Article</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="choose">Choose</string>
+</resources>
